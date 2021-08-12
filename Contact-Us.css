@@ -6,7 +6,7 @@
   font-weight: 900;
   margin: 28px auto;
 }.u-section-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/default-image.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/what-is-a-fleet.jpg");
 }
 
 .u-section-2 .u-sheet-1 {
@@ -22,7 +22,7 @@
 .u-section-2 .u-image-1 {
   min-height: 288px;
   pointer-events: auto;
-  background-image: url("images/9d4a74f6bb1d6781bad1dc180a03bfee18f45cd4250d1e39425bcc7c11a96e0a7d7e734afeb5107d156e39596142a469931e8ea2f01ba884bccd74_1280.jpg");
+  background-image: url("images/5.jpeg");
   background-position: 50% 50%;
 }
 
@@ -71,7 +71,7 @@
 .u-section-2 .u-image-2 {
   min-height: 358px;
   pointer-events: auto;
-  background-image: url("images/ushirika.jpg");
+  background-image: url("images/Maplocation_-5a492a4e482c52003601ea25.jpg");
   background-position: 50% 50%;
 }
 
@@ -118,7 +118,7 @@
 .u-section-2 .u-image-3 {
   min-height: 358px;
   pointer-events: auto;
-  background-image: url("images/fa17719dbb6cb85b5c593d9cf16b8fb5e24d7c83ae561fa804db59c60fa0eddf1c472a2c8294c1f01c8821bd62f2ffd8ebcc29e46af6bbd3ced824_1280.png");
+  background-image: url("images/0x0.jpg");
   background-position: 50% 50%;
 }
 
